@@ -9,7 +9,7 @@ This is my Personal Portfolio. I have included my Information, Technocal Skills,
 
 I am Driven, creative, and passionate team developer in JavaScript and Ruby on Rails. Skilled in different web technologies, web services API, and management. Interested in utilizing skills towards Full Stack/Front-End development, Atlassian/Confluence Development, Salesforce Development, Quality Assurance and UI/UX design.
 
-![Screenshot](https://github.com/tejpoudel/portfolio/blob/master/Portfolio.png)
+![Screenshot](https://github.com/tejpoudel/portfolio.github.com/blob/master/Portflolio.png)
 
 ## Files
 ### CSS - It is style file in CSS folder:
