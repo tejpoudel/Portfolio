@@ -773,14 +773,8 @@ header .to_down:hover i{
     line-height: 60px;
 }
 
-.portimg {
+.size {
     height: 200px;
-    width: 100%;;
-    border: 2px solid black;
-}
-
-.port_link {
-    margin: 30px;
 }
 
 /*----------------------------------------------
